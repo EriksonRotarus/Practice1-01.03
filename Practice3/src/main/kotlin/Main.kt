@@ -39,14 +39,14 @@ fun main(args: Array<String>) {
      println ("Подросток")
     else
      println("Не подросток")
-        //7 задача
+      */  //7 задача
     var counter:Int = 0
     while (counter < 10)
     {
     var x:Int = counter
     counter++
     println(x)
-    }
+    }/*
         //8 задача
     var counter:Int = 0
     var roll:Int = 0
@@ -84,6 +84,15 @@ fun main(args: Array<String>) {
         }
     }
         println(sum)
+
+
+    val FullName:String = "Эрик Ротарь"
+  fun calculateFullName(FullName:String):String
+  {
+    return FullName
+
+  }
+    calculateFullName(FullName = " ")
 
    */
 }
