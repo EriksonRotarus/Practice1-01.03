@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+   <style name="Theme.Light">
+       <item name="android:textColor">@color/p_text</item>
+       <item name="android:background">@color/p_light</item>
+   </style>
+
+    <style name="Theme">Theme.Light</style>
+</resources>
